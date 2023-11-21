@@ -1,7 +1,11 @@
 # PracticeWebAutomationCucumber
 
 API + Web Automation Complementary practice
+
+
 QC Basics Reference
+
+
 In this practice, we are going to join and complement the concepts of java + Selenium + Rest Assured + Cucumber. If you need to review in greater detail what is Cucumber for, check the following article: 👉https://cucumber.io/docs/guides/overview/
 
 For this practical exercise we need to start by creating a maven java project (use the standard archetype used previously) And include the dependencies used in order to work with Java, TestNG, and Selenium. Additionally, Add the cucumber dependency and configure cucumber into your framework. Here you can find a guide for installing cucumber into your project https://cucumber.io/docs/installation/java/ and here the guide for configuring it and creating your first scenarios https://www.browserstack.com/guide/automation-using-cucumber-selenium (Consider this last guide does not include Page Object Model implementation, however you should use POM into your framework)
